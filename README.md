@@ -1,4 +1,3 @@
-# Dirty-Financial-Data-Generator
 # 🗑️ Dirty Data Generator
 
 > Synthetic financial data generator designed to simulate real-world data anomalies for machine learning preparation.
